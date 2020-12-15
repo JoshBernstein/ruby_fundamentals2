@@ -3,11 +3,11 @@
 
 
 def double(my_number)
-    return my_number * 2
+    return puts my_number * 2
 end
 
-puts double(5)
-puts double(7)
-puts double(9)
-puts double(1)
-puts double(3)
+double(5)
+double(7)
+double(9)
+double(1)
+double(3)
